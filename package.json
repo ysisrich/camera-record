@@ -1,5 +1,5 @@
 {
-  "name": "摄像头录制以及屏幕录制",
+  "name": "camera-record",
   "version": "0.1.0",
   "private": true,
   "scripts": {
